@@ -12,7 +12,15 @@ header{
 
 header div{
     border:1px solid black;
-    height:inherit;
+    /*height:inherit;*/
     display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    /*overflow:hidden;*/
+}
+
+header div div{
+    border: 1px solid red;
+    width:250px;
 }
 
