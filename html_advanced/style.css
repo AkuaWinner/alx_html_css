@@ -1,5 +1,16 @@
-body{
-    background: red;
+.logo img{
+    position:absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.menu a{
+    width:100px;
+    display:block;
+    padding:20px 15px;
+    text-decoration: none;
+    color:f2f2f2;
+    text-align: center;
 }
 
 
