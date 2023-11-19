@@ -1,0 +1,33 @@
+header
+{
+    display: flex;
+    background-color: green;
+}
+
+body
+{
+    flex-direction: column;
+    display:flex;
+    /* background-color: red; */
+}
+
+main
+{
+    display:flex;
+    flex-direction: row;
+    flex:auto;
+}
+
+article
+{
+    flex:2;
+    overflow-y: auto;
+    border: 2px solid black;
+}
+
+aside
+{
+    flex:1;
+    overflow-y: auto;
+    border: 2px solid black;
+}
