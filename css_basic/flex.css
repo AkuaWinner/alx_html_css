@@ -1,0 +1,12 @@
+#flex
+{
+    flex-direction:row ;
+    flex-wrap: wrap;
+    /* border-color: red;   */
+    /* background-color: red; */
+    display: flex; 
+    /* flex-wrap:wrap ; */
+    justify-content: center;
+    flex-grow: 1;
+    /* background-color: red; */
+}
