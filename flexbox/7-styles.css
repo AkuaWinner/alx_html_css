@@ -275,6 +275,10 @@
          background: transparent;
          align-items: center;
   }
+
+  .section-header{
+    align-items: center;
+  }
   
 /*.header-logo {
     position: var(--header-logo-position);
