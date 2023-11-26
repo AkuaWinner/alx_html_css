@@ -1,1 +1,2 @@
-This project is about 
+# phone first design
+This project is about designing websites that progressively change the layout to view across multiple devices as well as screen sizes by scaling its content and elements accordingly is known as responsive design.
