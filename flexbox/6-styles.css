@@ -216,11 +216,11 @@
   /*.navbar-menu {
     float: right;
   }*/
-  nav{
+  .nav{
     display: flex;
   }
 
- .nav-item .nav-item{
+ .nav .nav-item .nav-item{
   margin: var(--nav-item-margin);
  }
   
