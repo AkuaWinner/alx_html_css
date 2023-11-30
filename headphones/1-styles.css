@@ -1,3 +1,59 @@
+/*ROOT*/
 :root{
-    background-image: url(images/headphones_hero_1);
+    background-image: url(images/headphones_hero_1.jpg);
+}
+/*ROOT*/
+
+
+/*RESPONSIVENESS*/
+/*@media screen and (max-width: 900px) {
+    ul.sidenav {
+      width: 100%;
+      height: auto;
+      position: relative;
+      display: inline;
+    }
+
+
+@media screen and (max-width: 400px) {
+    ul.sidenav li a {
+      text-align: center;
+      float: none;
+    }*/
+
+ /*RESPONSIVENESS*/   
+
+/*HEADER*/
+.works_on_smartphone{
+    display: flex;
+}
+
+.header{
+    display: inline;
+}
+
+li {
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    color: red;
+  }
+
+  /*HEADER*/
+
+
+
+  /*MAIN*/
+p{
+
+    text-align: right;
 }
